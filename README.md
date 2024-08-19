@@ -1,1 +1,1 @@
-# Repositório dedicado a atividades feitas no Eclipse
+# Repositório dedicado à atividades feitas no Eclipse
